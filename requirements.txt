@@ -1,2 +1,4 @@
 jupyter
-matplotl
+matplotlib
+numpy
+p
