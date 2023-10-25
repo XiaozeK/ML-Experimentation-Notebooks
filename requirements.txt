@@ -4,4 +4,4 @@ numpy
 pandas
 Pillow
 plotly
-scikit-lear
+scikit-learn
