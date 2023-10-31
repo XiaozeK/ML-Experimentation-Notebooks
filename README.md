@@ -17,3 +17,9 @@ Once that's done, you can start running the notebooks:
 
     . venv/bin/activate
     jupyter notebook .
+
+For a guide on setting up Git to exclude notebook outputs, follow this link: [ipynb_output_filter](https://github.com/toobaz/ipynb_output_filter).
+
+Notes
+-----
+To check the results of [color-clustering.ipynb](color-clustering.ipynb), visit this link: [https://xiaozeK.github.io/post/determining-dominant-colors](https://xiaozeK.github.io/post/determining-dominant-colors/).
