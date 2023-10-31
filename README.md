@@ -16,3 +16,4 @@ To get started, first install the required dependencies:
 Once that's done, you can start running the notebooks:
 
     . venv/bin/activate
+    jupyter notebook .
